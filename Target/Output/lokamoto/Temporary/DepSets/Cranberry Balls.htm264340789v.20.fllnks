@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileClass=""
+  FileTitle="Cranberry Bliss Balls"
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/Stylesheets/Styles.css" />
+    <Link
+      Url="Content/Resources/Snippets/Ingredients.flsnp" />
+    <Link
+      Url="Content/Resources/Snippets/Preparation.flsnp" />
+    <Link
+      Url="Content/Resources/Snippets/Suggestions.flsnp" />
+    <Link
+      Url="Content/Resources/Snippets/Information.flsnp" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/Stylesheets/Styles.css" />
+    <Link
+      Url="Content/Resources/Snippets/Ingredients.flsnp" />
+    <Link
+      Url="Content/Resources/Snippets/Preparation.flsnp" />
+    <Link
+      Url="Content/Resources/Snippets/Suggestions.flsnp" />
+    <Link
+      Url="Content/Resources/Snippets/Information.flsnp" />
+  </LongLinks>
+  <Anchors />
+  <Keywords>
+    <IndexCacheEntry
+      Term="Pine nuts"
+      Conditions=""
+      LocalConditions=""
+      Position="10" />
+    <IndexCacheEntry
+      Term="Sunflower seeds"
+      Conditions=""
+      LocalConditions=""
+      Position="12" />
+    <IndexCacheEntry
+      Term="Almonds"
+      Conditions=""
+      LocalConditions=""
+      Position="14" />
+    <IndexCacheEntry
+      Term="Cranberries"
+      Conditions=""
+      LocalConditions=""
+      Position="16" />
+    <IndexCacheEntry
+      Term="Maple syrup"
+      Conditions=""
+      LocalConditions=""
+      Position="18" />
+    <IndexCacheEntry
+      Term="Vanilla extract"
+      Conditions=""
+      LocalConditions=""
+      Position="20" />
+    <IndexCacheEntry
+      Term="Nutmeg"
+      Conditions=""
+      LocalConditions=""
+      Position="22" />
+    <IndexCacheEntry
+      Term="Coconut flakes"
+      Conditions=""
+      LocalConditions=""
+      Position="24" />
+  </Keywords>
+  <Concepts>
+    <ConceptCacheEntry
+      Term="Desserts"
+      Conditions=""
+      LocalConditions=""
+      Position="6" />
+  </Concepts>
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/Stylesheets/Styles.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

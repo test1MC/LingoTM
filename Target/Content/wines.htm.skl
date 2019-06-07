@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Default.ScreenOnly" class="" MadCap:searchable="False" MadCap:lastBlockDepth="2" MadCap:lastHeight="145" MadCap:lastWidth="1076" MadCap:conditionTagExpression="exclude[Default.Remove4ePub] " xml:space="preserve">
+    <head>
+        <link href="Resources/Stylesheets/Styles.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <h1>砻קยด1ตว融</h1>
+        <p style="text-align: center;">砻קยด2ตว融</p>
+        <p style="text-align: center;">&#160;</p>
+        <p align="center"><iframe name="Wine" src="../wine/Advanced/index.htm" width="500" height="500" border="1" frameborder="1">砻קยด3ตว融</iframe></p>
+        <p>&#160;</p>
+    </body>
+</html>

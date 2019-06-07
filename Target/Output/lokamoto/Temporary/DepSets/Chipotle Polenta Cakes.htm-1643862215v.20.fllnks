@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileClass=""
+  FileTitle="Chipotle Polenta Cakes"
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/Stylesheets/Styles.css" />
+    <Link
+      Url="Content/Resources/Snippets/Ingredients.flsnp" />
+    <Link
+      Url="Content/Main Dishes/Kale and Mushrooms with Polenta.htm" />
+    <Link
+      Url="Project/ConditionTagSets/Default.flcts" />
+    <Link
+      Url="Content/Resources/Snippets/Preparation.flsnp" />
+    <Link
+      Url="Content/Resources/Snippets/Suggestions.flsnp" />
+    <Link
+      Url="Content/Dips, Salsas &amp; Sauces/Salsa Fresca.htm" />
+    <Link
+      Url="Content/Resources/Snippets/Information.flsnp" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/Stylesheets/Styles.css" />
+    <Link
+      Url="Content/Resources/Snippets/Ingredients.flsnp" />
+    <Link
+      Url="Content/Main Dishes/Kale and Mushrooms with Polenta.htm" />
+    <Link
+      Url="Project/ConditionTagSets/Default.flcts" />
+    <Link
+      Url="Content/Resources/Snippets/Preparation.flsnp" />
+    <Link
+      Url="Content/Resources/Snippets/Suggestions.flsnp" />
+    <Link
+      Url="Content/Dips, Salsas &amp; Sauces/Salsa Fresca.htm" />
+    <Link
+      Url="Content/Resources/Snippets/Information.flsnp" />
+  </LongLinks>
+  <Anchors />
+  <Keywords>
+    <IndexCacheEntry
+      Term="Polenta"
+      Conditions=""
+      LocalConditions=""
+      Position="11" />
+    <IndexCacheEntry
+      Term="Corn"
+      Conditions=""
+      LocalConditions=""
+      Position="15" />
+    <IndexCacheEntry
+      Term="Chipotles"
+      Conditions=""
+      LocalConditions=""
+      Position="17" />
+    <IndexCacheEntry
+      Term="Cilantro"
+      Conditions=""
+      LocalConditions=""
+      Position="19" />
+    <IndexCacheEntry
+      Term="Eggs"
+      Conditions=""
+      LocalConditions=""
+      Position="21" />
+  </Keywords>
+  <Concepts>
+    <ConceptCacheEntry
+      Term="Main Dishes"
+      Conditions=""
+      LocalConditions=""
+      Position="6" />
+  </Concepts>
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions>
+    <Condition
+      Tag="Default.PrintOnly" />
+  </AllConditions>
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/Stylesheets/Styles.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

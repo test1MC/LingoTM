@@ -1,0 +1,162 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileClass=""
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/Stylesheets/Styles.css" />
+    <Link
+      Url="Content/Resources/Snippets/Ingredients.flsnp" />
+    <Link
+      Url="Content/Resources/Snippets/Preparation.flsnp" />
+    <Link
+      Url="Content/Resources/Snippets/Suggestions.flsnp" />
+    <Link
+      Url="Content/Resources/Snippets/Information.flsnp" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/Stylesheets/Styles.css" />
+    <Link
+      Url="Content/Resources/Snippets/Ingredients.flsnp" />
+    <Link
+      Url="Content/Resources/Snippets/Preparation.flsnp" />
+    <Link
+      Url="Content/Resources/Snippets/Suggestions.flsnp" />
+    <Link
+      Url="Content/Resources/Snippets/Information.flsnp" />
+  </LongLinks>
+  <Anchors />
+  <Keywords>
+    <IndexCacheEntry
+      Term="potatoes"
+      Conditions=""
+      LocalConditions=""
+      Position="10" />
+    <IndexCacheEntry
+      Term="carrots"
+      Conditions=""
+      LocalConditions=""
+      Position="12" />
+    <IndexCacheEntry
+      Term="tofu"
+      Conditions=""
+      LocalConditions=""
+      Position="15" />
+    <IndexCacheEntry
+      Term="Soy Sauce"
+      Conditions=""
+      LocalConditions=""
+      Position="17" />
+    <IndexCacheEntry
+      Term="granulated garlic"
+      Conditions=""
+      LocalConditions=""
+      Position="19" />
+    <IndexCacheEntry
+      Term="cayenne pepper"
+      Conditions=""
+      LocalConditions=""
+      Position="21" />
+    <IndexCacheEntry
+      Term="mushrooms"
+      Conditions=""
+      LocalConditions=""
+      Position="23" />
+    <IndexCacheEntry
+      Term="onion"
+      Conditions=""
+      LocalConditions=""
+      Position="25" />
+    <IndexCacheEntry
+      Term="broccoli"
+      Conditions=""
+      LocalConditions=""
+      Position="27" />
+    <IndexCacheEntry
+      Term="garlic"
+      Conditions=""
+      LocalConditions=""
+      Position="29" />
+    <IndexCacheEntry
+      Term="flour"
+      Conditions=""
+      LocalConditions=""
+      Position="31" />
+    <IndexCacheEntry
+      Term="vegetable broth"
+      Conditions=""
+      LocalConditions=""
+      Position="33" />
+    <IndexCacheEntry
+      Term="milk"
+      Conditions=""
+      LocalConditions=""
+      Position="35" />
+    <IndexCacheEntry
+      Term="red wine"
+      Conditions=""
+      LocalConditions=""
+      Position="37" />
+    <IndexCacheEntry
+      Term="thyme"
+      Conditions=""
+      LocalConditions=""
+      Position="39" />
+    <IndexCacheEntry
+      Term="sage"
+      Conditions=""
+      LocalConditions=""
+      Position="41" />
+    <IndexCacheEntry
+      Term="hoisin sauce"
+      Conditions=""
+      LocalConditions=""
+      Position="43" />
+    <IndexCacheEntry
+      Term="Worcestershire sauce"
+      Conditions=""
+      LocalConditions=""
+      Position="45" />
+    <IndexCacheEntry
+      Term="flour"
+      Conditions=""
+      LocalConditions=""
+      Position="49" />
+    <IndexCacheEntry
+      Term="vegetable shortening"
+      Conditions=""
+      LocalConditions=""
+      Position="52" />
+    <IndexCacheEntry
+      Term="rosemary"
+      Conditions=""
+      LocalConditions=""
+      Position="54" />
+    <IndexCacheEntry
+      Term="sage"
+      Conditions=""
+      LocalConditions=""
+      Position="56" />
+  </Keywords>
+  <Concepts>
+    <ConceptCacheEntry
+      Term="Main Dishes"
+      Conditions=""
+      LocalConditions=""
+      Position="5" />
+  </Concepts>
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/Stylesheets/Styles.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

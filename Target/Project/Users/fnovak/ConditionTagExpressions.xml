@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?><html xml:space="preserve"><head><title /></head><ConditionExpressionList>
+  <Expression>exclude[Default.PrintOnly]</Expression>
+  <Expression>exclude[Default.PrintOnly or Default.ScreenOnly]</Expression>
+  <Expression>exclude[Default.Remove4Mobile]</Expression>
+</ConditionExpressionList><body /></html>

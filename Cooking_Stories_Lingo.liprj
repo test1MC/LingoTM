@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LingoProject TargetLanguage="ar;fr;es" xml:lang="ar" SourceLanguage="en-us" FileFormatVersion="6" CreatedInVersion="11" flattenSnippets="false" SelectedTarget="" Domain="Other" Client="Cooking Stories" SourceControlBound="false" ActiveLanguage="es">
+    <ProjectFile Source="Target/Cookbook.flprj" Target="Target/Cookbook.flprj" />
+    <TMConnection Connection="FictionSoft.db" ReadOnly="false" Type="StandAlone" />
+    <MTConnection Provider="MICROSOFT" />
+    <MTConnection Provider="MYMEMORY" />
+</LingoProject>

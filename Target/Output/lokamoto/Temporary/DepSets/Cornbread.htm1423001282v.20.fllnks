@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileClass=""
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/Stylesheets/Styles.css" />
+    <Link
+      Url="Content/Resources/Snippets/Ingredients.flsnp" />
+    <Link
+      Url="Content/Resources/Snippets/Preparation.flsnp" />
+    <Link
+      Url="Content/Resources/Snippets/Suggestions.flsnp" />
+    <Link
+      Url="Content/Main Dishes/Chock Full of Veggies Chili.htm" />
+    <Link
+      Url="Content/Main Dishes/Creole Jambalaya.htm" />
+    <Link
+      Url="Content/Resources/Snippets/Information.flsnp" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/Stylesheets/Styles.css" />
+    <Link
+      Url="Content/Resources/Snippets/Ingredients.flsnp" />
+    <Link
+      Url="Content/Resources/Snippets/Preparation.flsnp" />
+    <Link
+      Url="Content/Resources/Snippets/Suggestions.flsnp" />
+    <Link
+      Url="Content/Main Dishes/Chock Full of Veggies Chili.htm" />
+    <Link
+      Url="Content/Main Dishes/Creole Jambalaya.htm" />
+    <Link
+      Url="Content/Resources/Snippets/Information.flsnp" />
+  </LongLinks>
+  <Anchors />
+  <Keywords>
+    <IndexCacheEntry
+      Term="vegetable shortening"
+      Conditions=""
+      LocalConditions=""
+      Position="9" />
+    <IndexCacheEntry
+      Term="egg"
+      Conditions=""
+      LocalConditions=""
+      Position="11" />
+    <IndexCacheEntry
+      Term="flour"
+      Conditions=""
+      LocalConditions=""
+      Position="13" />
+    <IndexCacheEntry
+      Term="cornmeal"
+      Conditions=""
+      LocalConditions=""
+      Position="15" />
+    <IndexCacheEntry
+      Term="buttermilk"
+      Conditions=""
+      LocalConditions=""
+      Position="17" />
+  </Keywords>
+  <Concepts>
+    <ConceptCacheEntry
+      Term="Sides"
+      Conditions=""
+      LocalConditions=""
+      Position="5" />
+  </Concepts>
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/Stylesheets/Styles.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

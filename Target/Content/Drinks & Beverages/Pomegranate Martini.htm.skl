@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="4" MadCap:lastHeight="311" MadCap:lastWidth="506" xml:space="preserve">
+    <head>
+        <link href="../Resources/Stylesheets/Styles.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <h2>砻קยด6ตว融<MadCap:keyword term="Martini" /><MadCap:concept term="Drinks &amp; Beverages" /></h2>
+        <p class="from">砻קยด7ตว融</p>
+        <MadCap:snippetBlock src="../Resources/Snippets/Ingredients.flsnp" />
+        <p>砻קยด8ตว融</p>
+        <p>砻קยด9ตว融</p>
+        <p>砻קยด10ตว融</p>
+        <p>&#160;</p>
+        <MadCap:snippetBlock src="../Resources/Snippets/Preparation.flsnp" />
+        <p>砻קยด11ตว融</p>
+        <p>&#160;</p>
+        <MadCap:snippetBlock src="../Resources/Snippets/Suggestions.flsnp" />
+        <p>砻קยด12ตว融</p>
+        <p>&#160;</p>
+        <p>&#160;</p>
+        <MadCap:snippetBlock src="../Resources/Snippets/Information.flsnp" />
+        <p>&#160;</p>
+    </body>
+</html>

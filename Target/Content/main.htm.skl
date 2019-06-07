@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:searchable="False" class="" MadCap:lastBlockDepth="6" MadCap:lastHeight="859" MadCap:lastWidth="685" xml:space="preserve">
+    <head>
+        <link href="Resources/Stylesheets/Styles.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <p style="text-align: center;"><span style="font-size: 22pt;">砻קยด1ตว融</span></p>
+        <p MadCap:conditions="Default.ScreenOnly,Default.PrintOnly">砻קยด2ตว融</p>
+        <table MadCap:conditions="Default.ScreenOnly,Default.PrintOnly" style="width: 100%;">
+            <col />
+            <col />
+            <col />
+            <col />
+            <tbody>
+                <tr>
+                    <td style="font-size: 12pt;">
+                        <p>⅛</p>
+                        <p>⅙</p>
+                        <p>⅕</p>
+                        <p>¼</p>
+                    </td>
+                    <td style="font-size: 12pt;">
+                        <p>⅖</p>
+                        <p>⅗</p>
+                        <p>⅜</p>
+                        <p>⅓</p>
+                    </td>
+                    <td style="font-size: 12pt;">
+                        <p>½</p>
+                        <p>⅝</p>
+                        <p>⅔</p>
+                        <p>¾</p>
+                    </td>
+                    <td style="font-size: 12pt;">
+                        <p>⅘</p>
+                        <p>⅚</p>
+                        <p>⅞</p>
+                        <p>°</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <p>&#160;</p>
+        <p style="text-align: center;">
+            <img src="Resources/Images/CBPage.png" />
+        </p>
+        <p>&#160;</p>
+        <p style="text-align: center;">砻קยด3ตว融</p>
+        <p style="text-align: center;">&#160;</p>
+        <p style="text-align: center;">砻קยด4ตว融</p>
+        <p style="text-align: center;">&#160;</p>
+        <p MadCap:conditions="Default.ScreenOnly" style="text-align: center;">砻קยด5ตว融</p>
+        <p MadCap:conditions="Default.ScreenOnly" style="text-align: center;">&#160;</p>
+        <p MadCap:conditions="Default.ScreenOnly" style="text-align: center;">砻קยด6ตว融</p>
+        <p MadCap:conditions="Default.ScreenOnly" style="text-align: center;">&#160;</p>
+        <p MadCap:conditions="Default.ScreenOnly" style="text-align: left;"><b style="text-decoration: none;">砻קยด7ตว融</b></p>
+        <MadCap:listOfProxy style="mc-list-of-tag: h2;mc-list-of-class: new;" MadCap:conditions="Default.ScreenOnly" />
+    </body>
+</html>

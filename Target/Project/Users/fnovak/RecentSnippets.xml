@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<UrlList xml:space="preserve">
+    <Url Source="Resources/Snippets/Ingredients.flsnp" />
+    <Url Source="Resources/Snippets/Information.flsnp" />
+    <Url Source="Resources/Snippets/Suggestions.flsnp" />
+    <Url Source="Resources/Snippets/Preparation.flsnp" />
+</UrlList>

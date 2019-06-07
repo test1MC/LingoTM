@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<StringMap NeedsRefreshCorrection="false">
+    <Entry Status="Untranslated">
+        <Key>Appetizers</Key>
+        <OldValue>Appetizers</OldValue>
+        <NewValue>砻קยด1ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>Breakfasts</Key>
+        <OldValue>Breakfasts</OldValue>
+        <NewValue>砻קยด2ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>Desserts</Key>
+        <OldValue>Desserts</OldValue>
+        <NewValue>砻קยด3ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>Dips, Salsas &amp; Sauces</Key>
+        <OldValue>Dips, Salsas &amp; Sauces</OldValue>
+        <NewValue>砻קยด4ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>Drinks &amp; Beverages</Key>
+        <OldValue>Drinks &amp; Beverages</OldValue>
+        <NewValue>砻קยด5ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>Fish &amp; Seafood</Key>
+        <OldValue>Fish &amp; Seafood</OldValue>
+        <NewValue>砻קยด6ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>Main Dishes</Key>
+        <OldValue>Main Dishes</OldValue>
+        <NewValue>砻קยด7ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>Pasta Dishes &amp; Pasta Sauces</Key>
+        <OldValue>Pasta Dishes &amp; Pasta Sauces</OldValue>
+        <NewValue>砻קยด8ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>Salads</Key>
+        <OldValue>Salads</OldValue>
+        <NewValue>砻קยด9ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>Sides</Key>
+        <OldValue>Sides</OldValue>
+        <NewValue>砻קยด10ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>Soups &amp; Stews</Key>
+        <OldValue>Soups &amp; Stews</OldValue>
+        <NewValue>砻קยด11ตว融</NewValue>
+    </Entry>
+</StringMap>

@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<StringMap
+  NeedsRefreshCorrection="false">
+  <Entry
+    Status="Untranslated">
+  <Key>Appetizers</Key>
+  <OldValue>Appetizers</OldValue>
+  <NewValue>Appetizers</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>Breakfasts</Key>
+  <OldValue>Breakfasts</OldValue>
+  <NewValue>Breakfasts</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>Desserts</Key>
+  <OldValue>Desserts</OldValue>
+  <NewValue>Desserts</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>Dips, Salsas &amp; Sauces</Key>
+  <OldValue>Dips, Salsas &amp; Sauces</OldValue>
+  <NewValue>Dips, Salsas &amp; Sauces</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>Drinks &amp; Beverages</Key>
+  <OldValue>Drinks &amp; Beverages</OldValue>
+  <NewValue>Drinks &amp; Beverages</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>Fish &amp; Seafood</Key>
+  <OldValue>Fish &amp; Seafood</OldValue>
+  <NewValue>Fish &amp; Seafood</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>Main Dishes</Key>
+  <OldValue>Main Dishes</OldValue>
+  <NewValue>Main Dishes</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>Pasta Dishes &amp; Pasta Sauces</Key>
+  <OldValue>Pasta Dishes &amp; Pasta Sauces</OldValue>
+  <NewValue>Pasta Dishes &amp; Pasta Sauces</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>Salads</Key>
+  <OldValue>Salads</OldValue>
+  <NewValue>Salads</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>Sides</Key>
+  <OldValue>Sides</OldValue>
+  <NewValue>Sides</NewValue>
+</Entry>
+  <Entry
+    Status="Untranslated">
+  <Key>Soups &amp; Stews</Key>
+  <OldValue>Soups &amp; Stews</OldValue>
+  <NewValue>Soups &amp; Stews</NewValue>
+</Entry>
+</StringMap>

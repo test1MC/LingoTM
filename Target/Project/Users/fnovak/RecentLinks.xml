@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RecentLinks xml:space="preserve">
+    <Dialog Name="B3.XmlTextKit.InsertHyperlinkDialog">
+        <Link Value="C:\Users\fnovak.MADCAP\Desktop\TestProjects\2007Cookbook - LIVE\Content\!11111\Chipotle Yogurt.htm" />
+    </Dialog>
+    <Dialog Name="B3.XmlTextKit.InsertCrossReferenceDialog">
+        <Link Value="C:\Users\fnovak.MADCAP\Desktop\TestProjects\2007Cookbook - LIVE\Content\!11111\Cornbread.htm" />
+    </Dialog>
+    <Dialog Name="B3.XmlMdiEditorKit.ImageGeneralDialogPage">
+        <Link Value="C:\Users\fnovak.MADCAP\Desktop\TestProjects\2007Cookbook - LIVE\Content\Resources\Images\LasagnaCupcakes.png" />
+    </Dialog>
+</RecentLinks>

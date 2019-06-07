@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PaneLayout>
+  <PaneDock Docked="true">
+    <PaneDockPanel>
+      <PaneContainer Dock="Left" Width="307.886810011508" TabStyle="Top">
+        <Pane Name="ProjectExplorer" />
+        <Pane Name="ContentExplorer" />
+      </PaneContainer>
+      <PaneDockPanel>
+        <PaneDockPanel Dock="Left" Width="0" />
+        <PaneDockPanel>
+          <PaneContainer TabStyle="Top">
+            <Pane Name="StartPage" />
+          </PaneContainer>
+        </PaneDockPanel>
+      </PaneDockPanel>
+    </PaneDockPanel>
+  </PaneDock>
+</PaneLayout>

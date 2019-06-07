@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="2" MadCap:lastHeight="198" MadCap:lastWidth="666" xml:space="preserve">
+    <head>
+        <link href="../Stylesheets/Styles.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <MadCap:pageHeader class="FirstPage" MadCap:conditions="Default.PrintOnly">砻קยด1ตว融</MadCap:pageHeader>
+        <MadCap:pageHeader class="OddPage" MadCap:conditions="Default.PrintOnly">砻קยด2ตว融</MadCap:pageHeader>
+        <MadCap:pageHeader class="EvenPage" MadCap:conditions="Default.PrintOnly">砻קยด3ตว融</MadCap:pageHeader>
+        <p MadCap:conditions="Default.PrintOnly">&#160;</p>
+        <MadCap:topicToolbarProxy class="" style="mc-topic-toolbar-items: ;" />
+        <MadCap:breadcrumbsProxy class="" />
+        <MadCap:bodyProxy />
+        <p MadCap:conditions="Default.PrintOnly">&#160;</p>
+        <MadCap:pageFooter class="OddPage" MadCap:conditions="Default.PrintOnly"><MadCap:variable name="System.PageNumber" />
+        </MadCap:pageFooter>
+        <MadCap:pageFooter class="EvenPage" MadCap:conditions="Default.PrintOnly"><MadCap:variable name="System.PageNumber" />
+        </MadCap:pageFooter>
+    </body>
+</html>

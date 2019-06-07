@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultSkin Version="1" SkinType="WebHelpMobile" Comment="砻קยด1ตว融" Tabs="TOC,Index,Search" Title="砻קยด2ตว融">
+    <Stylesheet>
+        <Styles>
+            <Style Name="Navigation Element">
+                <Classes>
+                    <StyleClass Name="TOC - Home Page Row">
+                        <Properties>
+                            <Property Name="LabelWithNoneOption">砻קยด3ตว融</Property>
+                        </Properties>
+                    </StyleClass>
+                </Classes>
+            </Style>
+        </Styles>
+    </Stylesheet>
+</CatapultSkin>

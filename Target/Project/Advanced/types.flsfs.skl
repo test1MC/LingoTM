@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultSearchFilterSet>
+    <SearchFilter Name="砻קยด1ตว融" Concepts="Appetizers">
+    </SearchFilter>
+    <SearchFilter Name="砻קยด2ตว融" Comment="" Concepts="Breakfasts" />
+    <SearchFilter Name="砻קยด3ตว融" Comment="" Concepts="Desserts" />
+    <SearchFilter Name="砻קยด4ตว融" Comment="" Concepts="Dips, Salsas &amp; Sauces" />
+    <SearchFilter Name="砻קยด5ตว融" Comment="" Concepts="Drinks &amp; Beverages" />
+    <SearchFilter Name="砻קยด6ตว融" Comment="" Concepts="Main Dishes" />
+    <SearchFilter Name="砻קยด7ตว融" Comment="" Concepts="Pasta" />
+    <SearchFilter Name="砻קยด8ตว融" Comment="" Concepts="Salads" />
+    <SearchFilter Name="砻קยด9ตว融" Comment="" Concepts="Sides" />
+    <SearchFilter Name="砻קยด10ตว融" Comment="" Concepts="Soups" />
+    <SearchFilter Name="砻קยด11ตว融" Comment="" Concepts="Fish &amp; Seafood;Main Dishes" />
+</CatapultSearchFilterSet>
